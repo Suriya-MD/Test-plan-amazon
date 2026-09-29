@@ -221,5 +221,10 @@ def merge_intervals(intervals):
 intervals = [[1, 3], [2, 6], [8, 10], [9, 12]]
 print(merge_intervals(intervals))
 ```
+# Task (29-09-2026)
+
+[Python_assignment](https://github.com/Suriya-MD/Test-plan-amazon/blob/main/Python_Assignments.ipynb)<br>
+[Python Function Assignments]() <br>
+[NUMPY ASSIGNMENT]()
 
 
