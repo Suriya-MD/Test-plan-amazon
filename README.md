@@ -224,7 +224,7 @@ print(merge_intervals(intervals))
 # Task (29-09-2026)
 
 [Python_assignment](https://github.com/Suriya-MD/Test-plan-amazon/blob/main/Python_Assignments.ipynb)<br>
-[Python Function Assignments]() <br>
+[Python Function Assignments](https://github.com/Suriya-MD/Test-plan-amazon/blob/main/Python_Function_Assignments.ipynb) <br>
 [NUMPY ASSIGNMENT]()
 
 
